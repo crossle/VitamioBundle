@@ -35,7 +35,7 @@ public class VideoViewDemo extends Activity {
 	 * TODO: Set the path variable to a streaming video URL or a local media file
 	 * path.
 	 */
-	private String path = "";
+	private String path = "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8";
 	private VideoView mVideoView;
 	private EditText mEditText;
 
